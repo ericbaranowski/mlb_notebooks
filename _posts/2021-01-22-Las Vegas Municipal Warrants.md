@@ -18,6 +18,6 @@ I had the opportunity to contribute to a conversation about fines and fees for t
 # Tableau Dashboard
 ### Click through for interactive version
 <a href='https://public.tableau.com/profile/roger.pharr#!/vizhome/LasVegasMuniWarrants/Dashboard1'>
-<image src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;La&#47;LasVegasMuniWarrants&#47;Dashboard1&#47;1_rss.png' style='border: none' /> 
+<img src='https://public.tableau.com/static/images/La/LasVegasMuniWarrants/Dashboard1/1_rss.png' style='border: none' /> 
 </a>
 
